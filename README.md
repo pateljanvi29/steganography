@@ -41,7 +41,7 @@ A Python-based steganography desktop application with a modern GUI that hides en
 
 ---
 
-📦 Requirements
+## 📦 Requirements
 • Python 3.x
 • Tkinter (comes pre-installed with Python)
 • Pillow
@@ -49,25 +49,25 @@ A Python-based steganography desktop application with a modern GUI that hides en
 
 ---
 
-🔐 Password Format
+## 🔐 Password Format
 Letters@4Digits
 Example: Shristi@2510
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool is intended for educational and ethical use only.
 The brute-force and cyber attack payloads are for learning/demo purposes and must not be used maliciously.
 
 ---
 
-📂 Log File
+## 📂 Log File
 All critical actions (encrypt, decrypt, brute-force) are logged into:
 steg_audit.log
 
 ---
 
-💡 Future Improvements
+## 💡 Future Improvements
 • Add drag-and-drop support
 • Export decrypted message to text file
 • Add support for more image formats (e.g., BMP, TIFF)
@@ -75,11 +75,11 @@ steg_audit.log
 
 ---
 
-📜 License
+## 📜 License
 MIT License – feel free to use, modify, and contribute.
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Janvi Patel
 B.Tech CSE Student | Passionate about Cybersecurity & Digital Tools
