@@ -30,15 +30,16 @@ A Python-based steganography desktop application with a modern GUI that hides en
    cd image-steganography-app
 
 
-### 2. Install dependencies
-```bash
-pip install pillow cryptography
+2. **Install dependencies**
+   ```bash
+   pip install pillow cryptography
 
 
-3. Run the app
-```bash
-python ImageStegnopraphy.py
+3. **Run the app**
+   ```bash
+   python ImageStegnopraphy.py
 
+---
 
 📦 Requirements
 • Python 3.x
@@ -46,21 +47,25 @@ python ImageStegnopraphy.py
 • Pillow
 • Cryptography
 
+---
 
 🔐 Password Format
 Letters@4Digits
 Example: Shristi@2510
 
+---
 
 ⚠️ Disclaimer
 This tool is intended for educational and ethical use only.
 The brute-force and cyber attack payloads are for learning/demo purposes and must not be used maliciously.
 
+---
 
 📂 Log File
 All critical actions (encrypt, decrypt, brute-force) are logged into:
 steg_audit.log
 
+---
 
 💡 Future Improvements
 • Add drag-and-drop support
@@ -68,10 +73,12 @@ steg_audit.log
 • Add support for more image formats (e.g., BMP, TIFF)
 • Add CLI or web version (Flask or Streamlit)
 
+---
 
 📜 License
 MIT License – feel free to use, modify, and contribute.
 
+---
 
 🙋‍♀️ Author
 Janvi Patel
